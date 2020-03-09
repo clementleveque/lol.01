@@ -1,0 +1,26 @@
+Notes :
+
+
+ <p> = paragraphe
+ 
+ <html> = ouvre et ferme ton code
+ 
+ <head> =  un container pour toutes les choses qui font partie de la page HTML mais qui ne sont pas du contenu affiché.
+ 
+ <body> = tte de la page... Obliger de l indiqué
+ 
+ <meta charset="utf-8"> =  Il n'y a pas de raison de ne pas le définir, et il permet d'éviter certains problèmes plus tard.
+ 
+ alt =  alt (pour alternatif). Il contient un texte descriptif de l'image à l'intention des utilisateurs qui ne peuvent pas voir l'image
+    est contenu dans la balise <img>
+
+<h1>Mon titre principal</h1>
+<h2>Mon titre de section</h2>
+<h3>Mon sous-titre</h3>
+<h4>Mon sous-sous-titre</h4>
+
+Chaque élément d'une liste est balisé avec un élément <li>
+Les listes non-ordonnées sont des listes pour lesquelles l'ordre des éléments = <ul>
+Les listes ordonnées sont des listes pour lesquelles l'ordre des éléments est important  <ol>
+
+
